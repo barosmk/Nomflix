@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/https//barosmk.github.io/Nomflix/static/js/main.2194f6be.chunk.js",
+    "main.js.map": "/https//barosmk.github.io/Nomflix/static/js/main.2194f6be.chunk.js.map",
+    "runtime-main.js": "/https//barosmk.github.io/Nomflix/static/js/runtime-main.6907c656.js",
+    "runtime-main.js.map": "/https//barosmk.github.io/Nomflix/static/js/runtime-main.6907c656.js.map",
+    "static/js/2.4460bec2.chunk.js": "/https//barosmk.github.io/Nomflix/static/js/2.4460bec2.chunk.js",
+    "static/js/2.4460bec2.chunk.js.map": "/https//barosmk.github.io/Nomflix/static/js/2.4460bec2.chunk.js.map",
+    "index.html": "/https//barosmk.github.io/Nomflix/index.html",
+    "precache-manifest.8248f53834e479ad207c12ca04caaefc.js": "/https//barosmk.github.io/Nomflix/precache-manifest.8248f53834e479ad207c12ca04caaefc.js",
+    "service-worker.js": "/https//barosmk.github.io/Nomflix/service-worker.js",
+    "static/js/2.4460bec2.chunk.js.LICENSE.txt": "/https//barosmk.github.io/Nomflix/static/js/2.4460bec2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6907c656.js",
+    "static/js/2.4460bec2.chunk.js",
+    "static/js/main.2194f6be.chunk.js"
+  ]
+}
